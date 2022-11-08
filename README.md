@@ -1,12 +1,15 @@
 <h1 align="center">Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40"></h1>
-<h3 align="center"><i>I'm a Software Engineer by day.<br>Cybersecurity student by night.</i></h3>
+<h3 align="center"><i>Software Engineer by day - Cybersecurity student by night</i></h3>
 
 <br>
 <br>
 <h3 align="left">About Me:</h3>
 - 💻 Currently work as a Software Engineer (backend)<br>
+- 🛠 Working on virtual desktop infrastructure (VDI) products  <br>
 - 📚 Finishing up my Masters in Cybersecurity (focus in Information Security)<br>
-- 📰 Enjoy keeping up with the latest in cybersecurity news 
+- 🚩 Interested in cyber threat intelligence, network security and web security<br>
+- 🌟 Main languages: Python, Java, C#, C <br>
+- 📰 Enjoy keeping up with the latest in cybersecurity news<br> 
 
 <br>
 <br>
