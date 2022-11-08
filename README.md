@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40"></h1>
-<h3 align="center"><i>Software Engineer by day.<br>Cybersecurity Student by night.</i></h3>
+<h3 align="center"><i>I'm a Software Engineer by day.<br>Cybersecurity Student by night.</i></h3>
 
 <br>
 <br>
