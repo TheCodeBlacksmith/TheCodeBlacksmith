@@ -2,6 +2,8 @@
 <h3 align="center"><i>Software Engineer - Backend Generalist - AI and Cybersecurity Enthusiast</i></h3>
 
 <pre>
+							
+
                 _______ _           _____          _      ____ {-}           _                  _ _   _     
                |__   __| |         / ____|        | |    |  _ \| |          | |                (_) | | |    
                   | |  | |__   ___| |     ___   __| | ___| |_) | | __ _  ___| | _____ _ __ ___  _| |_| |__  
@@ -13,7 +15,6 @@
                                                          |             |
                                                          \_____________/
                     
-                                      "Hammering away at code somewhere in the universe..."
 
 </pre>
 <br>
