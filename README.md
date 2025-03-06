@@ -20,12 +20,11 @@
 <br>
 <br>
 <h3 align="left">About Me:</h3>
-- 💻 Currently work as a Backend Software Engineer<br>
+- 💻Backend Software Engineer<br>
 - 🛠 Working on SaaS virtual desktop infrastructure (VDI) products and observability APIs<br>
 - 📚 Masters in Cybersecurity (focus in Information Security) & Bachelors in Computer Science (focus in AI and Information Networks)<br>
-- 💡 Interested in cyber threat intelligence and security tools software development<br>
+- 💡 Interested in cyber threat intelligence and security software development<br>
 - 🌟 Main languages: Python, Java, C#<br>
-- 📰 Enjoy keeping up with the latest in cybersecurity news<br> 
 
 <br>
 <br>
